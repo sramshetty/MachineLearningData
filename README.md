@@ -1,2 +1,2 @@
 # MachineLearningData
-Data for Machine Learning Projects
+Data for Machine Learning Projects, school and beyond.
